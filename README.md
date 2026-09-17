@@ -13,7 +13,12 @@ Building high-performance systems in **Rust** and **C++**.
 ---
 
 ### 🛠️ Tech Stack
-![Rust](https://shields.io) ![C++](https://shields.io) ![macOS](https://shields.io) ![Git](https://shields.io)
+![Rust](https://shields.io)
+![C++](https://shields.io++
+-blue?style=flat-square&logo=c%2B%2B)
+![macOS](https://shields.io)
+![Git](https://shields.io)
+
 
 ---
 
