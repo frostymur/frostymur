@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Timur! (frostymur)
 
-<img width="1280" height="360" alt="Banner" src="https://github.com" />
-
+<img width="1280" height="360" alt="wp2443474" src="https://github.com/user-attachments/assets/95d83cfa-eec0-4486-aec2-dc8dd9e6d031" />
 <p align="center">
   <img src="https://shields.io" alt="WRO Status">
   <img src="https://shields.io" alt="Focus">
