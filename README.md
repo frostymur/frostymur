@@ -8,7 +8,7 @@ Building high-performance systems in **Rust** and **C++**.
 ---
 
 ### 💻 Current Project
-*   🚀 [**aerofi**](https://github.com) — A hyper-lightweight, hardware-accelerated macOS app launcher built with Rust & GPUI.
+*   🚀 [**aerofi**](https://github.com/frostymur/aerofi) — A hyper-lightweight, hardware-accelerated macOS app launcher built with Rust & GPUI.
 
 ---
 
