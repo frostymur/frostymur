@@ -7,12 +7,12 @@ Building high-performance systems in **Rust** and **C++**.
 
 ---
 
-### 💻 Current Project
-*   🚀 [**aerofi**](https://github.com/frostymur/aerofi) — A hyper-lightweight, hardware-accelerated macOS app launcher built with Rust & GPUI.
+### Current Project
+*    [**aerofi**](https://github.com/frostymur/aerofi) — A hyper-lightweight, hardware-accelerated macOS app launcher built with Rust & GPUI.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -23,5 +23,5 @@ Building high-performance systems in **Rust** and **C++**.
 
 ---
 
-### 📬 Contact
+### Contact
 *   📧 **Email:** [iskakov_t0521@ptr.nis.edu.kz](mailto:iskakov_t0521@ptr.nis.edu.kz)
