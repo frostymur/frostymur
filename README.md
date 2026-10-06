@@ -24,4 +24,4 @@ Building high-performance systems in **Rust** and **C++**.
 ---
 
 ### Contact
-*   📧 **Email:** [iskakov_t0521@ptr.nis.edu.kz](mailto:iskakov_t0521@ptr.nis.edu.kz)
+*    **Email:** [iskakov_t0521@ptr.nis.edu.kz](mailto:iskakov_t0521@ptr.nis.edu.kz)
