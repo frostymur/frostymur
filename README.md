@@ -8,7 +8,7 @@ Building high-performance systems in **Rust** and **C++**.
 ---
 
 ### Current Projects
-*    [**aerofi**](https://github.com/frostymur/aerofi) — A hyper-lightweight, hardware-accelerated macOS app launcher built with Rust & GPUI.
+*    [**aerofi**](https://github.com/frostymur/aerofi) — A hyper-lightweight, hardware-accelerated macOS app launcher built with Rust & GPUI. (pre-release)
 *    [**bariweb**](https://github.com/Bariweb-ai) — Bariweb makes any website usable for people who find websites hard to use (pre-release)
 *    [**aeroflow**](https://github.com/frostymur/Aeroflow) — A lightweight, config-driven tiling window manager for macOS. (pre-release)
 *    [**arta-board**](https://github.com/Artarobotics-team/arta-board) — Main control PCB for an ESP32-S3 robot: 2S Li-ion (8.4 V) input with protection and soft-latch power control, 5 V / 3.3 V buck rails, 6x LEGO LPF2 motor H-bridges (TB67H450), 4x servos, BMI270 IMU, and an I2C expansion bus (TCA9548A). 4-layer board (early)
